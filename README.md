@@ -3,7 +3,7 @@
 </p>
 
 ## 🖥️ Projeto
-Esse é um projeto wev responsivo é um cápsula do tempo para exibir memórias em uma timeline.
+Esse é um projeto web responsivo de uma cápsula do tempo para exibir memórias em uma timeline.
 ## 🚀 Tecnologias
 Esse projeto foi desenvolvido durante o NLW Rocketseat com as seguintes tecnologias:
 
